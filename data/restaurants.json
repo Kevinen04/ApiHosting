@@ -1,0 +1,120 @@
+[
+    {
+        "id": "1",
+        "name": "Chinese Wok",
+        "description": "Fine Chinese cuisine established since the 1990s",
+        "phoneNumber": "+230 670 4646",
+        "staffIds": ["1"],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrssxsriwLKYM6d5IALZC-I2duSKk6YbzEkQ&usqp=CAU",
+        "menuItems": [
+            {
+                "id": "10",
+                "name": "Fried rice",
+                "description": "Mauritian style fried rice with chicken and egg",
+                "price": 200,
+                "category": "main",
+                "picture": "https://www.gimmesomeoven.com/wp-content/uploads/2017/07/How-To-Make-Fried-Rice-Recipe-2-1.jpg"
+            },
+            {
+                "id": "20",
+                "name": "Fried noodles",
+                "description": "Mauritian style fried noodles with chicken and egg",
+                "price": 225,
+                "category": "main",
+                "picture": "https://www.dinneratthezoo.com/wp-content/uploads/2019/06/pan-fried-noodles-4.jpg"
+            },
+            {
+                "id": "30",
+                "name": "Magic bowl",
+                "description": "Reversed rice bowl with chicken and egg",
+                "price": 250,
+                "category": "main",
+                "picture": "https://i.ytimg.com/vi/vPetKbWZDf8/maxresdefault.jpg"
+            },
+            {
+                "id": "40",
+                "name": "Soup",
+                "description": "Mushroom soup with vegetables",
+                "price": 150,
+                "category": "starter",
+                "picture": "https://www.dinneratthezoo.com/wp-content/uploads/2019/01/roasted-mushrooms-final-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Sitar Bagatelle",
+        "description": "Restaurant servomg indian food located at Bagatelle",
+        "phoneNumber": "+230 670 4747",
+        "staffIds": ["3", "4"],
+        "logo": "https://mymenu.mu/wp-content/uploads/2022/11/sitar-01.png",
+        "menuItems": [
+            {
+                "id": "10",
+                "name": "Cheese Naan",
+                "description": "Indian bread with cheese and garlic",
+                "price": 50,
+                "category": "main",
+                "picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-3.jpg"
+            },
+            {
+                "id": "20",
+                "name": "Plain Naan",
+                "description": "Indian bread",
+                "price": 30,
+                "category": "main",
+                "picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-3.jpg"
+            },
+            {
+                "id": "30",
+                "name": "Garlic Naan",
+                "description": "Indian bread with cheese and garlic",
+                "price": 50,
+                "category": "main",
+                "picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-3.jpg"
+            },
+            {
+                "id": "40",
+                "name": "Special Naan",
+                "description": "Special naan garnished with the chef's secret spices",
+                "price": 80,
+                "category": "main",
+                "picture": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/12/garlic-naan-3.jpg"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Papa Jean",
+        "description": "Pizza cooked in a wooden oven",
+        "phoneNumber": "+230 670 2323",
+        "staffIds": ["5"],
+        "logo": "https://logowik.com/content/uploads/images/pizza-papa-johns2504.logowik.com.webp",
+        "menuItems": [
+            {
+                "id": "100",
+                "name": "Chicken Supreme",
+                "description": "Pizza with chicken and prawns",
+                "price": 300,
+                "category": "main",
+                "picture": "https://djn5iqj8vm44t.cloudfront.net/photos/645/papa-johns-pizza_63281d32d8163_1200.jpg"
+            },
+            {
+                "id": "100",
+                "name": "Veg Delight",
+                "description": "Pizza with olives and peppers",
+                "price": 250,
+                "category": "main",
+                "picture": "https://djn5iqj8vm44t.cloudfront.net/photos/645/papa-johns-pizza_63281d32d8163_1200.jpg"
+            },
+            {
+                "id": "100",
+                "name": "Mexican Fiesta",
+                "description": "Pizza with meat and paprika",
+                "price": 350,
+                "category": "main",
+                "picture": "https://djn5iqj8vm44t.cloudfront.net/photos/645/papa-johns-pizza_63281d32d8163_1200.jpg"
+            }
+        ]
+    }
+]

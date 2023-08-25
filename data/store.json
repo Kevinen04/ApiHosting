@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "StoreName": "City Way",
+        "logo": "https://lh3.googleusercontent.com/p/AF1QipNqCCtHkqrsL6-lDnSu8KT1MEIogQtrjlfuZB3G=s680-w680-h510",
+        "owner": "Jean-Noel To Pow Man",
+        "datefounded": "04/05/1999",
+        "Sales": "Rs 172,781",
+        "status": "pending",
+        "staffs": [
+            {
+                "id": "1",
+                "staffName": "Tom",
+                "Occupation": "cashier",
+                "email": "tom@gmail.com",
+                "phoneNumber": "5123456"
+            },
+            {
+                "id": "2",
+                "staffName": "Jerry",
+                "Occupation": "cashier",
+                "email": "jerry@gmail.com",
+                "phoneNumber": "54015330"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "StoreName": "Tang Way",
+        "logo": "https://lh3.googleusercontent.com/p/AF1QipNpxVe-wNFX21eqFnv4K4jPskj5CGKXMqHdpSmj=s680-w680-h510",
+        "owner": "Alain Tang",
+        "datefounded": "04/05/1999",
+        "Sales": "Rs 450,000",
+        "status": "pending",
+        "staffs": [
+            {
+                "id": "1",
+                "staffName": "kayn",
+                "Occupation": "cashier",
+                "email": "kayn@gmail.com",
+                "phoneNumber": "5348 6194"
+            },
+            {
+                "id": "2",
+                "staffName": "Akali",
+                "Occupation": "cashier",
+                "email": "akali@gmail.com",
+                "phoneNumber": "5619 8591"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "StoreName": "London Way",
+        "logo": "https://lh3.googleusercontent.com/p/AF1QipNFeqOGsA4wdLJTk_u1euJNVqFR6IAnmA6VToPg=s680-w680-h510",
+        "owner": "Maryse LI KAM TIN",
+        "datefounded": "04/05/1999",
+        "Sales": "Rs 471,555.45",
+        "status": "pending",
+        "staffs": [
+            {
+                "id": "1",
+                "staffName": "Ekko",
+                "Occupation": "cashier",
+                "email": "ekko@gmail.com",
+                "phoneNumber": "5506 0116"
+            },
+            {
+                "id": "2",
+                "staffName": "Nidalee",
+                "Occupation": "cashier",
+                "email": "nidalee@gmail.com",
+                "phoneNumber": "5782 3424"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "StoreName": "Simla Way",
+        "logo": "https://lh3.googleusercontent.com/p/AF1QipNECyVZ7WGsoUTCkf2r09tNbOCmIjVXzUk0OjDl=s680-w680-h510",
+        "owner": "Rai Bahadur Mohan",
+        "datefounded": "04/05/1999",
+        "Sales": "Rs 569,464",
+        "status": "pending",
+        "staffs": [
+            {
+                "id": "1",
+                "staffName": "Orianna",
+                "Occupation": "cashier",
+                "email": "orianna@gmail.com",
+                "phoneNumber": "5395 4780"
+            },
+            {
+                "id": "2",
+                "staffName": "Zed",
+                "Occupation": "cashier",
+                "email": "zed@gmail.com",
+                "phoneNumber": "5555 0156"
+            }
+        ]
+    }
+]

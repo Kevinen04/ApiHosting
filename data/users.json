@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Olivier Giroud",
+        "role": "owner",
+        "address": "1 street name, Curepipe",
+        "email": "o.g@email.mu",
+        "contactNumber": "+230 5777 6661"
+    },
+    {
+        "id": "2",
+        "name": "Tom Ford",
+        "role": "customer",
+        "address": "2 street name, Curepipe",
+        "email": "t.f@email.mu",
+        "contactNumber": "+230 5777 6662"
+    },
+    {
+        "id": "3",
+        "name": "Silver Terry",
+        "role": "customer",
+        "address": "3 street name, Curepipe",
+        "email": "t.s@email.mu",
+        "contactNumber": "+230 5777 6663"
+    },
+    {
+        "id": "4",
+        "name": "Nathan LeGrand",
+        "role": "owner",
+        "address": "4 street name, Curepipe",
+        "email": "n.l@email.mu",
+        "contactNumber": "+230 5777 6664"
+    },
+    {
+        "id": "5",
+        "name": "Papa Jean",
+        "role": "owner",
+        "address": "5 street name, Curepipe",
+        "email": "p.j@email.mu",
+        "contactNumber": "+230 5777 6665"
+    }
+]

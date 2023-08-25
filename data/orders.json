@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "customerId": "1",
+        "menuItemIds": ["1", "2", "3"],
+        "approverId": "2",
+        "restaurantId": "1",
+        "totalPrice": 200,
+        "delivery": true,
+        "deliveryAddress": "11, Street, City"
+    }
+]
